@@ -2,7 +2,7 @@ name: SSH Login
 
 on:
   schedule:
-    - cron: '9 11 31 * *'
+    - cron: '9 11 28-31 * *'
   workflow_dispatch:
 
 jobs:
